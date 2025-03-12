@@ -19,7 +19,4 @@ This report summarizes costs by resource type for the current Azure subscription
 | Virtual Machines   | $0.33      |
 | **Total**          | **$21.35** |
 
-## Instructions
-1. Went to "Cost Management + Billing" > "Cost Analysis".
-2. Selected "Cost by Resource Type" view.
-3. Exported data as cost-analysis.csv and converted to Markdown.
+
