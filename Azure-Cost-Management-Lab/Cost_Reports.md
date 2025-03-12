@@ -1,7 +1,25 @@
 # Cost Report
 
-<img width="254" alt="image" src="https://github.com/user-attachments/assets/b90c53b1-4372-4891-81cb-57c32cb7d3d4" />
+# Cost Analysis Report in Azure
 
+## Overview
+This report summarizes costs by resource type for the current Azure subscription.
 
-<img width="308" alt="image" src="https://github.com/user-attachments/assets/d141f528-c79c-49e7-8b65-9a558a242b07" />
+## Cost Analysis
+- **Time Period**: Last 30 Days : March 1-10, 2025
+- **View**: Cost by Resource Type
+- **Exported**: CSV file (cost-analysis.csv)
 
+## Summary
+| Resource Type      | Cost (USD) |
+|--------------------|------------|
+| Azure Bastion      | $14.67     |
+| Virtual Network    | $3.30      |
+| Stoeage            | $2.62      |
+| Virtual Machines   | $0.33      |
+| **Total**          | **$21.35** |
+
+## Instructions
+1. Went to "Cost Management + Billing" > "Cost Analysis".
+2. Selected "Cost by Resource Type" view.
+3. Exported data as cost-analysis.csv and converted to Markdown.
